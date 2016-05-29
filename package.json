@@ -2,6 +2,9 @@
   "name": "react-redux-es6",
   "version": "1.0.0",
   "description": "Starter kit for React and Redux Pluralsight course by Cory House",
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Matt Wagner",
   "license": "MIT",
   "dependencies": {
